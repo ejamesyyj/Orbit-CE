@@ -1,2 +1,4 @@
 # Orbit-CE
-This program is designed to help students and enthusiasts understand orbital mechanics and the influence of mass and gravity on orbiting objects.
+This program is designed to help students and enthusiasts understand orbital mechanics and the influence of mass and gravity on orbiting objects. Formulas are provided for all calculations and constants programmed for the Earth, Moon, Mars, Jupiter and Kerbin. You can also input your custom object mass/radius and gravitational constant to calculate orbiting variables. You can complete calculations using velocity or height as a known variable. The calculator will show missing information, including the period and circumference of the orbit. Calculations are purely theoretical and assume a perfectly circular orbit. However, real-life calculations make sense with the calculator (check out the ISS, which orbits at ~407 km above the surface of the Earth at a speed of 7664 m/s and an orbital period of 92.7 minutes).
+
+The program is not tiny because it was made to be pretty and easy to use and understand.
